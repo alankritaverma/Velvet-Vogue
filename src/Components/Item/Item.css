@@ -28,3 +28,19 @@
 }
 
 
+@media(max-width:800px){
+    .item{
+        width: 35%;
+    }
+    .item-price-old{
+        font-size: 12px;
+    }
+}
+@media(max-width:500px){
+    .item p{
+        font-size: 14px;
+    }
+    .item-price-new{
+        font-size: 14px;
+    }
+}

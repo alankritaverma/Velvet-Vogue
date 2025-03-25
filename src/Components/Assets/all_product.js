@@ -1,4 +1,4 @@
-import p1_img from "./product_1.jpg";
+import p1_img from "./product_1.png";
 import p2_img from "./product_2.jpg";
 import p3_img from "./product_3.jpg";
 import p4_img from "./product_4.jpg";
@@ -25,7 +25,7 @@ import p24_img from "./product_24.jpg";
 import p25_img from "./product_25.jpg";
 import p26_img from "./product_26.jpg";
 import p27_img from "./product_27.jpg";
-
+console.log("First product image:", p1_img);
 let all_product = [
   {
   id: 1,
